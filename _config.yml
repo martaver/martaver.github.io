@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Braindump
 locale:           en_US
 url:              
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Sebastian Nemeth
+  avatar: The_Morning_After_by_hiddenmoves.jpg
+  bio: "An Aussie coder in Helsinki."
   email: 
   disqus-shortname: 
   twitter: #username
@@ -40,8 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: Martaver
+  stackoverflow: http://stackoverflow.com/users/535930/martaver
   linkedin: #username
   xing: #username
   instagram: #username
