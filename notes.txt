@@ -1,0 +1,10 @@
+Possible fonts for Good Pilgrim title:
+https://fonts.google.com/selection?selection.family=Fredericka+the+Great|IM+Fell+English|IM+Fell+English+SC|Permanent+Marker|Rock+Salt
+
+Fredericka the Great : 'Prototype' This font reflects the sketchy, prototypical style used during mock-ups, presentations.
+
+IM Fell English, IM Fell English SC : 'Storytelling' These fonts reflect a formally typed style yet projecting a huge amount of storytelling character.
+
+Permanent Marker, Rock Salt : Slightly retro, yet referencing the freehand post-it note nature of creative work.
+
+We still need a font that can cover 'normal' text, with all variants of black, bold, regular, light and thin styles.
