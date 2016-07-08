@@ -1,13 +1,7 @@
-# Site navigation links
+# main links links
+main:
+  - title: "Sample Navigation Link"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-- title: About
-  url: /about/
-
-- title: Sample Posts
-  url: /posts/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+  - title: "Sample Navigation Link 2"
+    url: /
