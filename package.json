@@ -37,6 +37,7 @@
     "watch:all": "npm-run-all --parallel watch:css watch:js",
     "build:css": "npm run scss && npm run autoprefixer",
     "build:js": "npm run uglify",
-    "build:all": "npm run build:css && npm run build:js"
+    "build:all": "npm run build:css && npm run build:js",
+    "serve": "bundle exec jekyll serve --config _config.yml,_config.dev.yml"
   }
 }
