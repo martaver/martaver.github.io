@@ -13,7 +13,7 @@ name                     : "Sebastian Nemeth"
 description              : "On a pilgrimage through the deep and high."
 url                      : "https://martaver.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  : 
+gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -64,7 +64,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Sebastian Nemeth"
-  avatar           : "bio-photo.jpg"
+  avatar           : "The_Morning_After_by_hiddenmoves.jpg"
   bio              : "I'm an Aussie coder who ventured out and found love in Helsinki. Here, I'm an entrepreneurial repeat offender, trying to find the elusive middle ground between branding, concept design and software development."
   location         : "Helsinki, Finland"
   email            :
