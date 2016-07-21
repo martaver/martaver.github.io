@@ -111,43 +111,75 @@ Let's remember that learning to dealing with stress is mostly actually learning 
 
 When we climb, we experience fear & discomfort. By putting ourselves in a fearful situation with controlled risk, we can gradually train our fear response to react with 'fight', not 'flight' - in other words, we train, out of life-threatening necessity, a natural response to engage with the task at hand, and not to give up. 
 
-### Step 1. Tend & Befriend
+### First, Tend & Befriend
 
 Given a difficult situation, the climber might get frustrated, fed up and let go. They quit and come down to face disappointment. They might even tell themselves a story/softener to take the edge off. That's fine - a completely natural, textbook 'flight' response.
 
-When I'm teaching new climbers I make a note to be as compassionate and hands off as possible at first. 
- - genuine praise (no false praise) - triggers reward system, releases dopamine. It's important  
- - no 'advice' unless asked for - encourages ownership, them to seek feedback, opening their mind. distraction free.
-    - ever see those climbers giving their buddy 'tips' every 30 seconds?
- - criticism (eventually) one point at a time. As something to try/focus on, not something they're doing wrong. And give them time to focus on it. 
-    - gives them focus, supports their presence & mindfulness.        
- - give them a high five, hug or arm around the shoulder after their climb - the physical contact helps release oxytocin (this may, or may not work with Finnish people).
+When I'm teaching new climbers I make a note to be as compassionate and hands off as possible:
 
-I accept the fact that the majority of their instincts might be built around 'flight' and try to develop a strong relationship at first.
+ - *Let them down when they want to.* You're building trust, so keep them comfortable.
+ - *Only give genuine praise.* Don't give them false or petty praise - it'll drown out the good stuff.
+ - *No 'advice' unless asked for.* Keep their mind clear. Have you ever seen those climbers giving their buddy 'tips' every 30 seconds?  
+ - *Show them one thing at a time.* Keep their mind clear. When advice or critique (eventually) comes up, don't vomit a list of problems onto their lap.
+ - *High fives and hugs* Give them a high five, hug or arm around the shoulder after their climb.
+ 
+I accept the fact that the majority of their instincts are usually built around 'flight' and try to develop a strong relationship instead. There's an equivalent to this bonding behavior in the world of psychology - it's called 'tend and befriend' and while doing it, it releases Dopamine, Oxytocin and Serotonin.
 
-There's an equivalent to this in the world of psychology - it's called 'tend and befriend'. 
+For example, in the rules above, praise triggers the brain's reward system and releases Dopamine and the physical contact releases Oxytocin (this may or may not work with Finnish people).
 
-Dopamine, Oxytocin and Serotonin.
+We'll get back to this in a sec. 
 
-We'll get back to this. 
+### Then, Apply Reasonable Pressure
 
-### Step 2. Apply Reasonable Pressure
-
-As the complexity of the climbing increases, so do the stakes and that 'flight' option starts to become less and less appealing. 
-The trouble is that in those difficult moments, if your instinct is 'flight' you're running the risk of testing the rope. 
+As the complexity of the climbing increases, so do the stakes and testing the rope starts to become less and less appealing.  
 
 > ...when your mind is telling you you’re done, you’re really only 40 percent done.
 > <cite>some Navy SEAL</cite>
  
-When you test that rope and take that chance - you bloody well want to make sure there was nothing else you could do. 
+Trust me, you don't want to test the rope. 
 
-Mostly, that kind of mentality doesn't come naturally, it has to be nurtured. So, at some stage in the relationship, I start to put the pressure on.  This is what makes a good climbing buddy - they don't let you fall back into your comfort zones until you've pushed yourself. Enough of this and gradually you start to realise how much you're actually capable of. 
+Mostly, that kind of mentality to push it the extra 60% doesn't come naturally, but it can be nurtured. That's what makes a good climbing buddy - they don't let you stop until you've pushed yourself and eventually you discover how far you can go.   
 
-Only when relationship is solid - they aren't doing it because you 'told them to', now they're doing it because it's you.
+When it's clear the relationship is significant and climbing is meaningful to them, I start to apply pressure. Not all the time. You don't want to be the asshole who never lowers you when you ask to be lowered, either.
 
-Tend & Befriend in action > When 'tending and befriending' relationships develop that overcome fight/flight responses.
-Pressure on > they produce courage. And we already know that courage produces engagement a 'fight' response.
+The process is simple and directed:
 
-Think of a mother bear, protecting her cubs.
+1. Wait for a climb that's important to them.
+2. If they 'give up', don't let them down.
 
- - Always give them a reason in the grand scheme, in progress why you're pushing them.  When you do X you'll need Y, when you go lead, when you go outdoors, when you do an overhang, when you do trad.
+and, if necessary:
+
+3. Relate it to the next climbing achievement. 
+
+The first point is important because it makes the pressure *about them*. They keep ownership even though you're pushing them. 
+ 
+But they also push themselves because of you. Psychologically, this is the response to 'Tend & Befriend' in action.  You see, the result of all that Dopamine, Oxytocin and Serotonin is an emotional connection with you that reduces fear and promotes courage in stressful situations. It's what converts a 'flight' response into a 'fight' response. It creates courage.
+
+Think of a mother bear, protecting her cubs. Without her cubs, it makes sense for the mother to flee, but around her cubs - there's no question - she'll fight.
+
+The third point places their effort in the context of progress - you need this 'for overhangs', 'for leading', 'for outdoors', 'for trad' etc. This doesn't just give them a reason for pushing, but it progresses them through a narrative in which they can identify. 
+
+> When workers sense they’re making headway, their drive to succeed is at its peak.
+> <cite>[Harvard Business Review, 2010](https://hbr.org/2010/01/the-hbr-list-breakthrough-ideas-for-2010)</cite>
+
+### Fostering Engagement In Collaborative Teams
+
+Let's distill all this into some rules of thumb on how to nurture meaningful engagement in a collaborative team.
+
+Your modus operandi should be 'Tend & Befriend' it cultivates the emotional energy you need to be successful when you apply pressure.
+ - Let them break out when they want to. Take breaks, chill, have barbeques.
+ - Only give genuine praise.
+ - No criticism unless called for.
+ - Give them one improvement at a time. This is a self-development improvement, not a 'fix this in your work' improvement.
+ - Hugs! (of course)
+
+When you apply pressure, be respectful of the stress you're creating.
+ - Be selective - pick something they care about. Make it personal.
+ - Don't accept the first version - make them improve it, one iteration at a time.
+ - Be ready to explain why the pressure is necessary. 
+
+Remember, the goal here is to encourage individuals to make a habit of choosing 'fight' instead of 'flight', engagement over disengagement, when it comes to stress.
+If you apply pressure without a well-tended relationship, or when the task isn't personal - all you will succeed in is applying meaningless stress.
+ 
+>"I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."
+> <cite>Frank Herbert</cite>
