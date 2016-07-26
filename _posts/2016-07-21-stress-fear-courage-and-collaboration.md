@@ -66,7 +66,11 @@ Through climbing, we can learn courage.
 
 ## Collaboration is the stress-breaker
 
-There's another part to climbing - and that's the incredible vulnerability you'll have in your relationship with your climbing buddy, [Timmy](https://1001movienights.files.wordpress.com/2015/03/mav-and-goose.jpg). 
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/mav-and-goose.jpg" alt="">  
+</figure> 
+
+There's another part to climbing - and that's the vulnerability you'll have in your relationship with your climbing buddy, [Timmy](https://1001movienights.files.wordpress.com/2015/03/mav-and-goose.jpg). 
 
 It's probably going to be one of the most resilient relationships you'll have in your life and there's a reason why. This is where my story comes full circle. Let's harken back to Kelly McGonigal's talk and listen to her next great reveal:
 
@@ -77,7 +81,12 @@ It's probably going to be one of the most resilient relationships you'll have in
 > But here's what most people don't understand about oxytocin. It's a stress hormone. Your pituitary gland pumps this stuff out as part of the stress response. It's as much a part of your stress response as the adrenaline that makes your heart pound. And when oxytocin is released in the stress response, it is motivating you to seek support.
 > <cite>Kelly McGonigal</cite>
 
-Okay, so *now* wow. Now we know why [Design Factory](http://designfactory.aalto.fi/) has [hugging points](https://c1.staticflickr.com/7/6148/5973839310_07ccaf3db8_b.jpg) everywhere.  
+Okay, so *now* wow.
+
+<figure style="width: 300px" class="align-left">
+  <img src="https://c1.staticflickr.com/7/6148/5973839310_07ccaf3db8_b.jpg" alt="">
+  <figcaption>Now we know why <a href="http://designfactory.aalto.fi/">Design Factory</a> has hugging points everywhere.</figcaption>
+</figure>
 
 I've always noticed that climbers from anywhere always seem to get along. There's every chance that if you met in any other setting you'd think [Timmy was a dick](/images/tim.png), but through the rigours of climbing, you're body is pumping out oxytocin to make sure you can work together - to ensure you can collaborate. To rise above. To overcome. To climb upwards.
  
@@ -141,10 +150,7 @@ The process is simple:
 
 1. Wait for a climb that's important to them.
 2. If they 'give up', don't let them down.
-
-and, if necessary:
-
-3. Relate it to the next climbing achievement. 
+3. If necessary, relate it to the next climbing achievement. 
 
 The first point is important because it makes the pressure *about them*. They keep ownership even though you're pushing them. It's their project.
 
@@ -163,7 +169,7 @@ Let's distill all this into some rules of thumb on how to nurture meaningful eng
 
 Your modus operandi should be 'Tend & Befriend'. It cultivates the emotional energy you need to be successful when you apply pressure.
 
- - **Be flexible.** Take breaks, chill, have barbecues.
+ - **Be flexible.** Relax your control. Take breaks, chill, have barbecues.
  - **Only give genuine praise.**
  - **No criticism unless called for.**
  - **One improvement at a time.**
