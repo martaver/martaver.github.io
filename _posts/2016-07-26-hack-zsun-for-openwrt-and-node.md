@@ -78,6 +78,9 @@ But, since ZSun doesn't have any internet of it's own, I'll try to do the actual
 
 Step './scripts/feeds update -a' opens the file in Notepad++... think something else should have happened here...
 
+Looks like we'll have to do this from a Linux box, duh.
+What now, cygwin?
+
 
 
 Questions remaining:
