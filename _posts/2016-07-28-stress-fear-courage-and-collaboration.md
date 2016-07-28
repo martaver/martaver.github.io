@@ -2,8 +2,7 @@
 title: "Stress, Fear, Courage & Collaboration"
 modified: 2016-07-28T16:20:02-05:00
 categories:  
-  - psychology
-  - teamwork
+  - psychology  
 tags:  
   
 ---
