@@ -102,9 +102,7 @@ There's no delusion about stress in innovation & entrepreneurship - pressure and
 
 Like trust, vulnerability, & courage. 
 
-Maybe they're not actually elusive qualities that are *found* in people, but *grown*. If we can stop framing stress as the inescapable demon with which we are doomed to dance, creative collaboration can stop being such a dark art. Getting the idea? 
-
-Stress is fundamental to meaningful collaboration.
+Maybe they're not actually elusive qualities that are *found* in people, but *grown*. If we can stop framing stress as the inescapable demon with which we are doomed to dance, maybe creative collaboration can stop being such a dark art and be recognised for what it is - the fundamental virtue of anyone who strives to improve.
 
 ## Stress and collaboration in symphony
 
