@@ -115,4 +115,4 @@ There's no delusion about stress in innovation & entrepreneurship - pressure and
 
 Like trust and vulnerability, which both take a healthy measure of courage to bring out. 
 
-Maybe they're not actually elusive qualities that are *found* in people, but *grown* through the natural stresses of the creative collaboration journey.
+Maybe they're not actually elusive qualities that are *found* in people, but *grown* through the natural, but necessary, stresses of the creative collaboration journey.
