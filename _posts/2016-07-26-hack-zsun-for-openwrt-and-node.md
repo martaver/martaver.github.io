@@ -9,7 +9,9 @@ tags:
   
 ---
 
-Not long ago, I spent some time tinkering with a [ZSun WiFi SD card reader](https://www.amazon.com/zsun-Memory-Reader-MicroSD-Flash/dp/B00U70J1BM) for [Koulu on Fire](http://kouluonfire.com/)'s 2016 Burning Man project. The idea was to power it from a USB power bank, flash it with [OpenWRT](https://openwrt.org/) and host a custom captive portal which allowed burners to take & share selfies. If you don't already know, a captive portal is a wifi network that redirects internet requests to a central page, like the login page of an Airport's WiFi network. OpenWRT is an open-source router firmware replacement that can be installed on most routers and has a massive community supporting it. Turned out to be quite fiddly, so I made this write up based on my lab notes. 
+Not long ago, I spent some time tinkering with a [ZSun WiFi SD card reader](https://www.amazon.com/zsun-Memory-Reader-MicroSD-Flash/dp/B00U70J1BM) for [Koulu on Fire](http://kouluonfire.com/)'s 2016 Burning Man project. We powered it from a USB power bank, flashed it with [OpenWRT](https://openwrt.org/) and hosted a custom captive portal which allowed burners to take & share selfies. The whole idea is to have a closed world portal that simply 'appears' when users connect to the Wifi network.
+
+If you don't already know, a captive portal is a wifi network that redirects internet requests to a central page, like the login page of an Airport's WiFi network. OpenWRT is an open-source router firmware replacement that can be installed on most routers and has a massive community supporting it. Turned out to be quite fiddly, so I made this write up based on my lab notes. 
 
 Follow this guide to transform a ZSun WiFi SD Card Reader into an OpenWRT router, ready to use with SSH, SFTP and a bridged internet connection.
  
