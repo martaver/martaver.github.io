@@ -15,7 +15,7 @@ If you don't already know, a captive portal is a wifi network that redirects int
 
 Follow this guide to transform a ZSun WiFi SD Card Reader into an OpenWRT router, ready to use with SSH, SFTP and a bridged internet connection.
  
-In the next part of this series, we'll set the device up as a PHP Web Server that acts as a custom captive portal.
+In the [next part](https://martaver.github.io/projects/hack-zsun-for-openwrt-and-node-part-2/) of this series, we'll set the device up as a PHP Web Server that acts as a custom captive portal.
 
 | Note: This guide is done from Windows - but many parts of this can be done easier from *nix.
 
@@ -303,7 +303,7 @@ Set the IP address you want OpenWRT to operate from, e.g. 192.168.10.1 and save/
 
 Here we end part 1. The end result should be a ZSun device with OpenWRT flashed onto it, SSH and SFTP enabled to access the terminal and file system respectively and a successfully bridged internet connection so that `opkg` can work without having to mess around with SD cards. This should be a pretty handy milestone for any custom tinkering with the OpenWRT you might want to do.
 
-In part 2, we'll dive deep and set up the PHP web server & captive portal on top of what we've built.
+In [part 2](https://martaver.github.io/projects/hack-zsun-for-openwrt-and-node-part-2/), we'll dive deep and set up the PHP web server & captive portal on top of what we've built.
 
 Enjoy!
  
