@@ -11,7 +11,7 @@ tags:
 
 This is the second part in a series based on my tinkering with a [ZSun WiFi SD card reader](https://www.amazon.com/zsun-Memory-Reader-MicroSD-Flash/dp/B00U70J1BM) for [Koulu on Fire](http://kouluonfire.com/)'s 2016 Burning Man project. We powered it from a USB power bank, flashed it with [OpenWRT](https://openwrt.org/) and hosted a custom captive portal which allowed burners to take & share selfies. The whole idea is to have a closed world portal that simply 'appears' when users connect to the Wifi network. Turned out to be quite fiddly, so I made this write up based on my lab notes.
 
-In the [previous post](https://martaver.github.io/projects/hack-zsun-for-openwrt-and-node/), we flashed a ZSun WiFi SD Card Reader devices with a custom build of OpenWRT and set it up for use with SSH, SFTP and a bridged internet connection.
+In the [previous post](/projects/hack-zsun-for-openwrt-captive-portal-part-1/), we flashed a ZSun WiFi SD Card Reader devices with a custom build of OpenWRT and set it up for use with SSH, SFTP and a bridged internet connection.
 
 Follow this guide to get our portal dev-ready with:
 - PHP running on Lighttpd as a web server 
@@ -36,7 +36,7 @@ You can do a simple 'Hello World' sanity check with uhttpd to ensure PHP is work
 1. Set up a basic hello world PHP file under `/www/yourphp/`
 1. Browse to http://192.168.1.1/yourphp/file.php
 
-| Remember: If you changed OpenWRT's gateway IP in [part 1](https://martaver.github.io/projects/hack-zsun-for-openwrt-and-node/), substitute `192.168.1.1` for it instead.
+| Remember: If you changed OpenWRT's gateway IP in [part 1](/projects/hack-zsun-for-openwrt-captive-portal-part-1/), substitute `192.168.1.1` for it instead.
  
 ## Isolate Luci and get a lighttpd site running from an SD card
   
