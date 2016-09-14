@@ -1,6 +1,6 @@
 ---
 title: "A ZSun Captive Portal - Part 2 (PHP, Lighttpd, SSL & Captive Redirects)"
-modified: 2016-07-26T16:20:02-05:00
+modified: 2016-09-14T17:45:02-03:00
 categories:  
   - projects  
 tags:  

@@ -1,6 +1,6 @@
 ---
 title: "A ZSun Captive Portal - Part 1 (OpenWRT, SSH, SFTP & Bridged Internet)"
-modified: 2016-07-26T16:20:02-05:00
+modified: 2016-08-30T13:21:02-03:00
 categories:  
   - projects  
 tags:  

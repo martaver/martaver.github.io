@@ -1,6 +1,6 @@
 ---
 title: "Stress, Fear, Courage & Collaboration"
-modified: 2016-07-28T16:20:02-05:00
+modified: 2016-07-28T16:20:02-03:00
 categories:  
   - psychology  
 tags:  
