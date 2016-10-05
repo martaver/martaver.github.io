@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    //Hidden files/folders
+    "files.exclude": {
+        //Hide version control folders
+        "**/.git": true,
+        "**/.svn": true,
+        //On OSX, this folder contains metadata for a folder. Hide it.
+        "**/.DS_Store": true,
+        "**/.idea": true,
+        //Hide node modules from view
+        "node_modules": true,
+        //Hide our distribution build
+        "dist": true,
+        //Hide our generated js map files and also the js files when a corresponding typescript file with the same name exists (cool huh?).
+        "**/*.js": { "when": "$(basename).ts"},
+        "**/*.js.map": true
+  }
+}
